@@ -4,9 +4,9 @@
 I like working close to the hardware: taking a circuit from idea → simulation → PCB → a board on the bench that actually works.
 
 - ⚡ **Main interest:** power electronics and analog circuit design (buck converters, gate drive, MOSFET selection, thermal design)
-- 🛠️ **Day to day:** KiCad for schematics & PCB layout, LTspice for simulation, a lot of datasheet reading
+- 🛠️ ** Day-to-day:** KiCad for schematics & PCB layout, LTspice for simulation, a lot of datasheet reading
 - 📡 **Also into:** digital communications & SDR, embedded systems, control and robotics
-- 🎓 **Now:** ????
+- 🎓 **Graduation Project:I'm open to ideas.
 - 🛰️ **Team project:** GPS-free visual navigation for a quadcopter, built and tested first in an ArduPilot SITL + Gazebo digital twin of our campus
 - 🚁 **On the side:** designing my own board for a hobby drone
 
