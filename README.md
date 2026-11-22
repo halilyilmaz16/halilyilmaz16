@@ -14,6 +14,7 @@ I like working close to the hardware: taking a circuit from idea → simulation 
 
 | Project | What it is | Tools |
 |---|---|---|
+|**Prep-Panic|indie game I developed|Godot etc.|
 | **GNSS-Free Visual Navigation** *(team project, private repo)* | Quadcopter localization without GPS: visual odometry and satellite-map matching fused and fed to ArduPilot as an external navigation source. My part: the simulation side (campus digital twin in Gazebo from satellite imagery and DEM, ArduPilot SITL, pymavlink flight/recording scripts, automated closed-loop GPS-denied tests incl. wind and failover scenarios) and the drone electronics. | Python, ArduPilot, MAVLink, Gazebo, OpenCV |
 | [**Capacitive Water Level Controller**](https://github.com/halilyilmaz16/EE316-ELECTRONICS-DESIGN-PROJECT) | Analog closed-loop level control: custom cylindrical capacitive sensor, TLC555 oscillator, XOR phase detection, LM358 amplification and PWM pump drive with overcurrent protection. Simulated, built and tested. | KiCad, LTspice |
 | [**USB → RS232 / RS485 Converter**](https://github.com/halilyilmaz16/USB_A-to-RS232-and-RS485-converter-PCB-design) | Schematic and PCB design of a USB-A to RS232/RS485 interface board. | KiCad |
